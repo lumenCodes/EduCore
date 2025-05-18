@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 node_modules
 .env
 
@@ -6,6 +7,8 @@ node_modules
 -----------------------------
 
 
+=======
+>>>>>>> b7465dfe1ba9d554fa3b9f1806362a30937c1891
 # Logs
 logs
 *.log
@@ -141,4 +144,8 @@ dist
 .yarn/unplugged
 .yarn/build-state.yml
 .yarn/install-state.gz
+<<<<<<< HEAD
 .pnp.*
+=======
+.pnp.*
+>>>>>>> b7465dfe1ba9d554fa3b9f1806362a30937c1891
